@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 66f79ffee9f7ade4cacf2be607701968
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Rounded Elegance
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3ea21cd7040a5754c9c0bac5c474a9db, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
